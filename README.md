@@ -1,2 +1,2 @@
 # CGPA_Calculator
-CGPA Calculator is useful to calculate the student marks
+CGPA Calculator is useful to calculate the students marks
