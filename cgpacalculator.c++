@@ -1,4 +1,4 @@
-                                                          //TASK 1: CPGA CALCULATATOR
+                                                          //CPGA CALCULATATOR
 
 #include <iostream>
 #include <iomanip>
